@@ -1,0 +1,30 @@
+body {
+    /* background-color: rgb(162, 247, 188); */
+    background-image:  url(download.jfif);
+    background-repeat:no-repeat;
+    background-position:left bottom;
+}
+.cihuy {text-decoration: underline wavy red;}
+.p1 {
+    text-align: left;
+    text-indent:2em;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+}
+
+.p2 {
+    text-align: center;
+}
+
+.p3 {
+    text-align: right;
+}
+.amba {text-transform: uppercase ;
+    
+}
+.p4 {
+    text-align: justify;
+}
+h1 {
+    text-transform: uppercase;
+}
